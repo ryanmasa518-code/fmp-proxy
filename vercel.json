@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/fmp/(.*)", "dest": "/api/fmp/$1" }
+  ]
+}
